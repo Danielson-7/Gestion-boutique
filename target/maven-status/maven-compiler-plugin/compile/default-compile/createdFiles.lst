@@ -1,0 +1,13 @@
+model/Achat.class
+Boutique.class
+model/ProduitAchete.class
+model/Categorie.class
+Service/CategorieService.class
+model/Produit.class
+Service/EmployeService.class
+model/Personne.class
+model/Employe.class
+Service/AchatService.class
+model/Client.class
+Service/ProduitService.class
+Service/ClientService.class
